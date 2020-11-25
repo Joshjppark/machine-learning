@@ -1,1 +1,4 @@
-
+nThe book went over machine learning algorithms and left the front end application for the reader to pursue on their own. As such, I created two drawing apps - one using Kivy
+and the other using tkinter - from scratch. Both programs implement a 16 by 16 grid of "tile" objects that increase in brightness value when the cursor hovers over it. I coudnld't
+find the source code for a good drawing app, so I had to get creative and use the 16 by 16 grid, which has its limitations. In general, the program has a hard time recognizing
+9's and 4's, which is most likely due to a flawed drawing user interface and partially to a nonperfect neural network.
